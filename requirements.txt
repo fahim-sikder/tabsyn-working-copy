@@ -1,6 +1,10 @@
 numpy
 pandas
 scikit-learn
+matplotlib
+seaborn
+einops
+numba
 scipy
 icecream
 xlrd
@@ -18,3 +22,7 @@ prdc
 rdt
 openpyxl
 xgboost
+dgl
+pydantic
+pytorch_geometric
+tqdm

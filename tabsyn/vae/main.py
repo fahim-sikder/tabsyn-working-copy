@@ -63,7 +63,7 @@ def main(args):
     device =  args.device
 
 
-    info_path = f'data/{dataname}/info.json'
+    info_path = f'data/Info/{dataname}.json'
 
     with open(info_path, 'r') as f:
         info = json.load(f)
